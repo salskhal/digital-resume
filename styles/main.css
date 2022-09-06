@@ -86,6 +86,13 @@ li{
     color: var(--mainTextColor);
 }
 
+#portfolio a{
+    color: var(--mainTextColor)
+}
+
+#portfolio a:hover{
+    color: var(--mainLinkColor);
+}
 #socials--list{
     display: flex;
     justify-content: space-between;
